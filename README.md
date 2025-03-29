@@ -1,1 +1,1 @@
-# SQL_Project
+This repository contains a Walmart Sales Data Analysis project, where SQL is used to explore and analyze key business metrics, including sales performance, customer trends, and inventory insights. The project includes raw data, SQL queries, and query results for in-depth analysis.
